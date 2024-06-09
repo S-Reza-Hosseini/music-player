@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Anathema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Eminem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Farhad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDeletAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUpdatePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ho3ein.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParvazHomay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="regester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Zedbazi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
